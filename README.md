@@ -35,16 +35,17 @@ This is a complete Android application built with Java and SQLite, featuring use
 ## 🧭 App Flow Screenshots
 
 ### 🔑 Login Screen
-![Login](screenshots/login.jpg)
+<img src="screenshots/login.jpg" alt="Login" width="300"/>
 
 ### 📝 Register Screen
-![Register](screenshots/register.jpg)
+<img src="screenshots/register.jpg" alt="Register" width="300"/>
 
 ### ❓ Forgot Password Screen
-![Forgot](screenshots/forgot.jpg)
+<img src="screenshots/forgot.jpg" alt="Forgot" width="300"/>
 
 ### 🔁 Reset Password Screen
-![Reset](screenshots/reset.jpg)
+<img src="screenshots/reset.jpg" alt="Reset" width="300"/>
+
 
 ---
 
